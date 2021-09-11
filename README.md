@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lyte</h1>
--  🔭 I’m currently working on **Growtopia Private Server Project**
+### Hi there 👋, my name is Lyte
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
--  🌱 I’m currently learning **JavaScript, Golang, C++, Python**
+- 🌱 I’m currently learning JavaScript, Python, Golang, C++ 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LyteVV)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyteVV)](https://github.com/anuraghazra/github-readme-stats)
