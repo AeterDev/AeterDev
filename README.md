@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lyte</h1>
-- 🔭 I’m currently working on **Growtopia Private Server Project**
+-  🔭 I’m currently working on **Growtopia Private Server Project**
 
-- 🌱 I’m currently learning **JavaScript, Golang, C++, Python**
+-  🌱 I’m currently learning **JavaScript, Golang, C++, Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
