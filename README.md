@@ -1,6 +1,6 @@
-### Hello, Lyte
+### Hello, I'm Lyte
 
-[![Github](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)]
+[![Github](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)
 
 ***
 
