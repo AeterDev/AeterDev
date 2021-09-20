@@ -1,6 +1,4 @@
-### Hello, I'm Lyte
-
-[![Github](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)
+### Hello, I'm Lyte [![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://discord.io/TRMusic)
 
 ***
 
