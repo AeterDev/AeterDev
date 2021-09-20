@@ -1,4 +1,4 @@
-### Hello, im Vincenzo#1985 a.k.a [![Lyte](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)
+### Hello, im Vincenzo#1985 a.k.a [Lyte](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)
 
 ***
 
