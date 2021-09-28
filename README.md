@@ -32,8 +32,8 @@
 <details>
   <summary>Invite my Discord Music Bot to your server</summary>
   
-[TRMusic Bot Discord Server](https://discord.io/trmusic)
+**[TRMusic Bot Discord Server](https://discord.gg/Ehuffyfamz)**
   <br>
-[TRMusic Invite Link](https://discord.com/api/oauth2/authorize?client_id=886802614795268136&permissions=8&scope=bot)
+**[TRMusic Invite Link](https://discord.com/api/oauth2/authorize?client_id=886802614795268136&permissions=8&scope=bot)**
   
 </details>
