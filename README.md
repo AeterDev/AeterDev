@@ -35,5 +35,7 @@
 **[TRMusic Bot Discord Server](https://discord.gg/Ehuffyfamz)**
   <br>
 **[TRMusic Invite Link](https://discord.com/api/oauth2/authorize?client_id=886802614795268136&permissions=8&scope=bot)**
+  <br>
+**[TRDevelopment Website](https://trdevs.xyz/)**
   
 </details>
