@@ -41,3 +41,4 @@
 
 ### STATS
 ![LyteVV GitHub stats](https://github-readme-stats.vercel.app/api?username=LyteVV&show_icons=true&theme=radical)
+[![LyteVV stats](https://badge42.herokuapp.com/api/stats/LyteVV?darkmode=true&cursus=C%20Piscine)](https://github.com/LyteVV)
