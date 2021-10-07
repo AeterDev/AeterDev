@@ -41,5 +41,3 @@
 
 ### STATS
 ![LyteVV GitHub stats](https://github-readme-stats.vercel.app/api?username=LyteVV&show_icons=true&theme=radical)
-![GitHub Contributors](https://contrib.rocks/image?repo=LyteVV)
-![Profile View Counter](https://komarev.com/ghpvc/?username=LyteVV)
