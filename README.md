@@ -3,9 +3,8 @@
 ***
 
 ## I'm a Developer
-- 🌱 Live in Indonesia.
-- ⚡ I love to Gym / playing video games.
-- 🥅 My Goals: Contribute more to Open Source projects
+- **Im from Indonesia**
+- **I Love coding, playing video games**
 
 ***
 
