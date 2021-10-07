@@ -41,4 +41,5 @@
 
 ### STATS
 ![LyteVV GitHub stats](https://github-readme-stats.vercel.app/api?username=LyteVV&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyteVV&layout=compact)](https://github.com/LyteVV)
+![GitHub Contributors](https://contrib.rocks/image?repo=Your_GitHub_Username/LyteVV)
+![Profile View Counter](https://komarev.com/ghpvc/?username=LyteVV)
