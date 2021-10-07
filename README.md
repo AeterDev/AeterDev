@@ -38,6 +38,6 @@
   <br>
 **[TRDevelopment Website](https://trdevs.xyz/)**
   
-  [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/868038353692557322/)
+  [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/663235405382025226)
   
 </details>
