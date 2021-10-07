@@ -36,19 +36,5 @@
 
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lytevv&show_icons=true&locale=en&layout=compact" alt="lytevv" /></p>
-
-***
-
-<details>
-  <summary>Invite my Discord Music Bot to your server</summary>
-  
-**[TRMusic Bot Discord Server](https://discord.gg/Ehuffyfamz)**
-  <br>
-**[TRMusic Invite Link](https://discord.com/api/oauth2/authorize?client_id=886802614795268136&permissions=8&scope=bot)**
-  <br>
-**[TRDevelopment Website](https://trdevs.xyz/)**
-  
-  [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/663235405382025226)
-  
-</details>
+### DISCORD
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discord.gg/dGYn2ghxbP)
