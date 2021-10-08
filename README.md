@@ -5,6 +5,7 @@
 ## I'm a Developer
 - **Im from Indonesia**
 - **I Love coding, playing video games**
+- ![](https://dcbadge.vercel.app/api/shield/663235405382025226)
 
 ***
 
