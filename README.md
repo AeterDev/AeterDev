@@ -1,4 +1,4 @@
-### Hello, I'm Lyte [![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)
+[![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)
 
 ***
 
