@@ -1,6 +1,4 @@
-[![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)
-
-<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
+[![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 ***
 
