@@ -2,7 +2,7 @@
 
 ***
 
-<img src="https://media.discordapp.net/attachments/895906557294940182/896358008265797672/LYTEVV.png" width="895px">
+<img src="https://media.discordapp.net/attachments/895906557294940182/896358008265797672/LYTEVV.png" width="895px" padding="10px">
 
 ### My favorite Languange, Framework, and IDE:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
