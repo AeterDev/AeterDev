@@ -37,3 +37,6 @@
 
 ### STATS
 ![LyteVV GitHub stats](https://github-readme-stats.vercel.app/api?username=LyteVV&show_icons=true&theme=radical)
+
+### MY DISCORD STATUS'
+![My Discord](https://discord-readme-badge.vercel.app/api?id=663235405382025226)
