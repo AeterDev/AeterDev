@@ -2,7 +2,7 @@
 
 ***
 
-<img src="https://media.discordapp.net/attachments/892029807859232808/896360630725017610/Visual-Identity-for-Your-Brand-.jpg?width=1202&height=676">
+<img src="https://media.discordapp.net/attachments/892029807859232808/896360630725017610/Visual-Identity-for-Your-Brand-.jpg?width=1202&height=512">
 
 ### My favorite Languange, Framework, and IDE:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
