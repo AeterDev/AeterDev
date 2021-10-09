@@ -2,6 +2,8 @@
 
 ***
 
+<img src="https://media.discordapp.net/attachments/895906557294940182/896358008265797672/LYTEVV.png">
+
 ### My favorite Languange, Framework, and IDE:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
