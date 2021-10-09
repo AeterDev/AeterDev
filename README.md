@@ -1,8 +1,9 @@
-[![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
+[![LyteVV](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)
 
 ***
 
 <img src="https://media.discordapp.net/attachments/892029807859232808/896360630725017610/Visual-Identity-for-Your-Brand-.jpg?width=1202&height=512">
+<img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 ### My favorite Languange, Framework, and IDE:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
