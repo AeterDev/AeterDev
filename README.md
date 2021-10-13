@@ -1,4 +1,4 @@
-[![Skys07](https://img.shields.io/badge/LYTEVV-FOLLOW-red?style=for-the-badge)](https://github.com/LyteVV)
+[![Skys07](https://img.shields.io/badge/SKYS07-FOLLOW-red?style=for-the-badge)](https://github.com/Skys07)
 
 ***
 
