@@ -1,4 +1,4 @@
-[![Skys07](https://img.shields.io/badge/SKYS07-FOLLOW-red?style=for-the-badge)](https://github.com/Skys07)
+[![AeterDev](https://img.shields.io/badge/AeterDev-FOLLOW-red?style=for-the-badge)](https://github.com/AeterDev)
 
 ***
 
@@ -19,5 +19,5 @@
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755233092368728105)
 
 # My Stats
-![LyteVV GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skys07&show_icons=true&theme=radical)
-![LyteVV Stats](https://github-readme-streak-stats.herokuapp.com/?user=Skys07)
+![LyteVV GitHub Stats](https://github-readme-stats.vercel.app/api?username=AeterDev&show_icons=true&theme=radical)
+![AeterDev Stats](https://github-readme-streak-stats.herokuapp.com/?user=AeterDev)
