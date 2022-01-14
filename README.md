@@ -19,5 +19,5 @@
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755233092368728105)
 
 # My Stats
-![LyteVV GitHub Stats](https://github-readme-stats.vercel.app/api?username=AeterDev&show_icons=true&theme=radical)
+![AeterDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AeterDev&show_icons=true&theme=radical)
 ![AeterDev Stats](https://github-readme-streak-stats.herokuapp.com/?user=AeterDev)
